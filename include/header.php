@@ -10,6 +10,7 @@
     <title>Php Development Task</title>
     <!-- Bootstrap CSS-->
     <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
   </head>
   <body>
 
