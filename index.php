@@ -1,7 +1,4 @@
 <?php
-
-echo "Hello world";
-
-
+include 'config/db.php';
 
 ?>
